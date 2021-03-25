@@ -1,0 +1,52 @@
+{
+  "product": [
+    {
+      "name": "Watchs",
+      "description": "Description goes here....",
+      "imgUrl": "/../../../../../../assets/watch.jpg",
+      "rating": 9,
+      "price": "35000",
+      "id": 9
+    },
+    {
+      "name": "Laptop",
+      "description": "Description goes here....",
+      "imgUrl": "./../../../../../../assets/laptop.jpeg",
+      "rating": 9,
+      "price": "2300",
+      "id": 10
+    },
+    {
+      "name": "printer",
+      "imgUrl": "./../../../../../../assets/printer.jpeg",
+      "price": 5000,
+      "description": "Description goes here....",
+      "rating": 8,
+      "id": 11
+    },
+    {
+      "name": "LED",
+      "description": "Description goes here....",
+      "imgUrl": "./../../../../../../assets/led.jpeg",
+      "rating": 9,
+      "price": 45000,
+      "id": 13
+    },
+    {
+      "name": "microsoft surface",
+      "imgUrl": "./../../../../../../assets/surface.png",
+      "price": 50099,
+      "description": "Description goes here....",
+      "rating": 8,
+      "id": 17
+    },
+    {
+      "name": "New Product",
+      "description": "This newly added product",
+      "imgUrl": "./../../../../../../assets/surface.png",
+      "rating": 7,
+      "price": 12000,
+      "id": 18
+    }
+  ]
+}
